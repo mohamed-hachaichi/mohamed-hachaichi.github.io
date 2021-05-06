@@ -5,7 +5,7 @@
 ### Research Areas of Intrerest 
 
 [Project 3: Downscaling the Planetatry Boundaries (PBs) to city scale](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/figure_6.png?raw=true"/>
 
 ---
 [Project 2: City Carbon Carrying Capacity (C4) framework](/pdf/sample_presentation.pdf)
