@@ -1,15 +1,14 @@
 title: Dr. Mohamed Hachaichi # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  4+ years of urban metabolism and climate change research with a solid background in statistics and scientific computations. Possess Ph.D Degree in "Evironment, Urbanism and Sustainable Cities" from the Polytechnic School of Architecture and Urbansim (EPAU) in Algiers-Algeria.  
+  4+ years of urban metabolism and climate change research with a solid background in statistics and scientific computations. Possess Ph.D. Degree in "Environment, Urbanism and Sustainable Cities" from the Polytechnic School of Architecture and Urbanism (EPAU) in Algiers-Algeria.
   <br><br>
-  Currently interested designing a rapid whole system change on a global scale using new relevant sustainability metrics (such as the Planetary Boundaries (PBs) framework) in a data-driven fashion. Aiming to clearly identify social tipping points using behavioral mechanisms and pattern recognition to find structure in a chaotic social/economic/urban environments.
+  Currently interested in designing a rapid whole system change on a global scale using new relevant sustainability metrics (such as the Planetary Boundaries (PBs) framework) in a data-driven fashion. Aiming to clearly identify social tipping points using behavioral mechanisms and pattern recognition to find structure in chaotic social/economic/urban environments.
+  <br><br>
   <br><br>
   <a href="https://www.linkedin.com/in/mohamed-hachaichi-07017212a/">View My LinkedIn Profile</a> 
   <br><br>
-  <a href="https://www.linkedin.com/in/mohamed-hachaichi-07017212a/">View My Github Profile</a> 
-  <br><br>
   <a href="https://scholar.google.com/citations?user=hRufR5YAAAAJ&hl=en">View My GoogleScholar Profile</a>
 
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# theme: jekyll-theme-minimal
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
