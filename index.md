@@ -11,11 +11,11 @@
 
 ---
 [Project 1: Carbon Footprint for Energy Transition](https://www.researchgate.net/publication/342503813_The_Carbon_Footprint_Model_as_a_plea_for_Cities_towards_Energy-Transition_The_case_of_Algiers-Algeria)
-<img src="images/1.png.jpg?raw=true"/>
+<img src="images/1.png?raw=true"/>
 
 ---
 
-### Selected Publications  
+### Selected Publications 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
