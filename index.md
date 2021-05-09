@@ -4,8 +4,18 @@
 
 ### Research Areas of Intrerest 
 
----
+[Project 5: Water-Food-Energy Nexus: A state of art](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
+<img src="images/5.png?raw=true"/>
 
+---
+[Project 4: Personal Carbon Footprint (PCF): An autopsy of MICs’ big cities](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
+<img src="images/4.png?raw=true"/>
+
+--- 
+[Project 3: Downscaling the planetary boundaries (Pbs) framework to city scale-level: De-risking MENA region’s environment future](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
+<img src="images/3.png?raw=true"/>
+
+---
 [Project 2: City Carbon Carrying Capacity (C4) framework](https://www.researchgate.net/publication/341526589_Evaluating_City_Carbon_Carrying_Capacity_How_many_people_can_Algiers_sustain)
 <img src="images/2.png?raw=true"/>
 
