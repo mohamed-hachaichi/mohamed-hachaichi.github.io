@@ -13,7 +13,7 @@
 <img src="images/5.png?raw=true"/>
 
 ---
-[Project 4: Personal Carbon Footprint (PCF): An autopsy of MICs’ big cities](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
+[Project 4: Virtual carbon emissions in the big cities of middle-income countries](https://www.researchgate.net/publication/354968873_Virtual_carbon_emissions_in_the_big_cities_of_middle-income_countries)
 
 <img src="images/4.png?raw=true"/>
 
@@ -41,10 +41,6 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
