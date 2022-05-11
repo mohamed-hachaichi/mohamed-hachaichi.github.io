@@ -1,8 +1,5 @@
 ## Interview with James Gein Wong
 
-![](./wordcoulds/James.png)
-
-
 *__What do you see as the most promising ways to resolve the many challenges the world faces today?__*
 
 There is an enormous range of issues that need to be addressed simultaneously and quickly. What makes it difficult is that we have a shortening action time window and due to many reasons, vast fragmentation and insufficient levels of cooperation. My focus is on 1) collective, inclusive whole-system sensemaking to emerge the necessary wisdom, strategies and leverage points and use that to pilot 2) harmonized, commons-based, humanity-scale rapid whole system change systems.
