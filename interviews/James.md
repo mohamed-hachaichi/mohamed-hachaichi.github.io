@@ -1,4 +1,8 @@
-## Interview with James Gein Wong
+## Interview with [James Gien Wong](https://www.linkedin.com/in/james-gien-wong-497471164/)
+
+*__Bio:__*
+
+James (Gien) Wong is co-founder of Stop Reset Go, a global citizen's collective focusing on sense-making and developing scaleable, bottom-up, rapid whole system change. He is also an action researcher in the commons focusing on commons leverage points including inner transformation, outer transformation and the tight coupling between the two. He has a background in electronic communications, circuit board design and industrial, control systems technology but migrated to nonlinear, social-ecological system intervention design, with a special focus on leverage points, idling resources and  social tipping points with the dawning of the crisis humanity faces in the Anthropocene.
 
 *__What do you see as the most promising ways to resolve the many challenges the world faces today?__*
 
@@ -16,7 +20,4 @@ With this background, we are now equipped to answer the question. As the name su
 
 *__How is your startup contributing in tackling climate change? What has been done? And what is on the agenda?__*
 
-Stop Reset Go has performed years of collective, trans-disciplinary sensemaking and from this has developed a provisional multiprong, multi-dimensional, multi-scale, rapid whole system change strategy. I’m hesitant to call it a solution as there are still unknowns and wicked problems don’t have solutions.  It needs to be gradually tested and scaled and shown to work and not bring about unintended consequences (progress traps) but by looking at distant connections between radically different disciplines and seeing important relationships normally not explored, we can better understand why certain obstacles seem intractable and why moving beyond them requires novel strategies.Understanding both the long term, anthropological reasons as well as middle and short term factors leading to the polycrisis in modernity helps us to mold the optimal strategy. 
-
-
-
+Stop Reset Go has performed years of collective, trans-disciplinary sensemaking and from this has developed a provisional multiprong, multi-dimensional, multi-scale, rapid whole system change strategy. I’m hesitant to call it a solution as there are still unknowns and wicked problems don’t have solutions.  It needs to be gradually tested and scaled and shown to work and not bring about unintended consequences (progress traps) but by looking at distant connections between radically different disciplines and seeing important relationships normally not explored, we can better understand why certain obstacles seem intractable and why moving beyond them requires novel strategies.Understanding both the long term, anthropological reasons as well as middle and short term factors leading to the polycrisis in modernity helps us to mold the optimal strategy.
