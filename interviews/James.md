@@ -1,6 +1,6 @@
-## Interview with [James Gien Wong](https://www.linkedin.com/in/james-gien-wong-497471164/)
+## Interview with [James Gein Wong](https://www.linkedin.com/in/james-gien-wong-497471164/)
 
-James (Gien) Wong *is co-founder of Stop Reset Go, a global citizen's collective focusing on sense-making and developing scaleable, bottom-up, rapid whole system change. He is also an action researcher in the commons focusing on commons leverage points including inner transformation, outer transformation and the tight coupling between the two. He has a background in electronic communications, circuit board design and industrial, control systems technology but migrated to nonlinear, social-ecological system intervention design, with a special focus on leverage points, idling resources and  social tipping points with the dawning of the crisis humanity faces in the Anthropocene.*
+**James (Gien) Wong** *is co-founder of Stop Reset Go, a global citizen's collective focusing on sense-making and developing scaleable, bottom-up, rapid whole system change. He is also an action researcher in the commons focusing on commons leverage points including inner transformation, outer transformation and the tight coupling between the two. He has a background in electronic communications, circuit board design and industrial, control systems technology but migrated to nonlinear, social-ecological system intervention design, with a special focus on leverage points, idling resources and  social tipping points with the dawning of the crisis humanity faces in the Anthropocene.*
 
 *__What do you see as the most promising ways to resolve the many challenges the world faces today?__*
 
