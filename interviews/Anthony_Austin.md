@@ -42,3 +42,10 @@ I think AI may be a requirement for our survival but Its primary benefit will be
 
 **What are the most effective approaches to creating optimal interactions between humans and computers? Are there any fears you may want to rise regarding data leakages and privacy?**
 
+Offering people and businesses a new long term security system that removes holes represented as convivences (less network based convivences) by providing new user-friendly convivences that are localized and individualized, so everyone isn’t vulnerable to the same hack/breach simultaneously reducing hacker incentives. 
+
+
+YES! Cookie polices created by legal teams that force users to sign away their rights to privilege’s and privacy while providing companies the rights to inside knowledge by installing software on user devices for 3rd party's while protecting the websites from any liabilities by not supporting the information they present to the public.
+
+
+Its not the computers that are the problem it’s the people that benefit from a lack of security that are controlling the markets. The companies in cyber security run complimentary to major business that run advertisements created from insider knowledge used to predict and control/regulate future markets.  So either the companies pretending to care about security need a competitor that actually cares, or people would have to ban together in protest the cookie policies. Some policies are so bad I just decide its not worth it to use the website at all (Like BlackRock’s website).
