@@ -1,3 +1,13 @@
+
+
+## Interviews 
+- [James Gein Wong](./interviews/James.md)
+
+- [Anthony Austin](./interviews/Anthony_Austin.md)
+
+- [Agnis Stibe](./interviews/Agnis_Stibe.md)
+
+
 ## Portfolio
 
 ---
@@ -34,10 +44,4 @@
 
 ---
 
-### Selected interviews 
-- [James Gein Wong](./interviews/James.md)
-
-- [Anthony Austin](./interviews/Anthony_Austin.md)
-
----
 
