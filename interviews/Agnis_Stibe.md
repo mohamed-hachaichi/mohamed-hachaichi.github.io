@@ -3,6 +3,8 @@
 ----------------------
 
 _**Agnis Stibe**  is a director of the artificial intelligence program and a professor of transformation at [EM Normandie Business School](https://www.em-normandie.com/en/agnis-stibe). He is also an adjunct professor of Human-City Interaction at the [University of Oulu](https://www.oulu.fi/en). He is a leader of the Silicon Valley-founded Transformative Technology community in Paris (France). At the renowned [Massachusetts Institute of Technology](https://www.mit.edu/) (MIT), he rchestrated a research on persuasive cities for sustainable wellbeing. He is currently working with [MIT Media Lab](https://www.media.mit.edu/) on the SoCity project. The first decentralized prosocial platform that helps urban citizens make their communities more livable and their cities hyper-performing. Within this vision, business acceleration and societal wellbeing can be achieved through purposefully designed innovations that successfully blend technological advancements with human nature. He offers the [STIBE](https://agnisstibe.com/) method which is currently helping millions to gain confidence and build resilience against everyday circumstances. It will help you achieve stressless hyper-performance at work and certainty in life. Prof Agnis Stibe is also a [TEDx speaker](https://www.youtube.com/watch?v=DStzEQ1YrV0), and an MIT alum._
+
+See the video of the podcast with Agnis Stibe on [YoutYoub](https://www.youtube.com/watch?v=eiV6ULeQnHU&t=261s).
  
 ---------------------
 

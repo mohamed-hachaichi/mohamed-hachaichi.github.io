@@ -2,6 +2,8 @@
 
 **James (Gien) Wong** *is co-founder of Stop Reset Go, a global citizen's collective focusing on sense-making and developing scaleable, bottom-up, rapid whole system change. He is also an action researcher in the commons focusing on commons leverage points including inner transformation, outer transformation and the tight coupling between the two. He has a background in electronic communications, circuit board design and industrial, control systems technology but migrated to nonlinear, social-ecological system intervention design, with a special focus on leverage points, idling resources and  social tipping points with the dawning of the crisis humanity faces in the Anthropocene.*
 
+See the video of the podcast with James Gein Wong on [YoutTube](https://www.youtube.com/watch?v=M7xeygJSm74&t=1s).
+
 *__What do you see as the most promising ways to resolve the many challenges the world faces today?__*
 
 There is an enormous range of issues that need to be addressed simultaneously and quickly. What makes it difficult is that we have a shortening action time window and due to many reasons, vast fragmentation and insufficient levels of cooperation. My focus is on 1) collective, inclusive whole-system sensemaking to emerge the necessary wisdom, strategies and leverage points and use that to pilot 2) harmonized, commons-based, humanity-scale rapid whole system change systems.
