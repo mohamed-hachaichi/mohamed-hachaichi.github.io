@@ -1,6 +1,6 @@
 ## About me 
-- [CV]('./ID/CV.md')
-- [Who I'm?]('./ID/ME.md')
+- [CV](./ID/CV.md)
+- [Who I'm?](./ID/ME.md)
 
 ## Support 
 
