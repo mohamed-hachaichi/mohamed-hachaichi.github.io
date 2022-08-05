@@ -2,18 +2,11 @@
 
 - [CV](./ID/CV.md)
 - [Who I'm?](./ID/ME.md)
+- [Developper of Geosis]()
 
 ## Support 
 
 <a href="https://www.buymeacoffee.com/mohamedhacJ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## Interviews 
-- [James Gein Wong](./interviews/James.md)
-
-- [Anthony Austin](./interviews/Anthony_Austin.md)
-
-- [Agnis Stibe](./interviews/Agnis_Stibe.md)
-
 
 ## Portfolio
 
@@ -51,4 +44,11 @@
 
 ---
 
+
+## Interviews 
+- [James Gein Wong](./interviews/James.md)
+
+- [Anthony Austin](./interviews/Anthony_Austin.md)
+
+- [Agnis Stibe](./interviews/Agnis_Stibe.md)
 

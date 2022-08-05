@@ -1,24 +1,29 @@
 Mohamed Hachaichi
 ======
 
-#### Data enthusiast with a strong background in math, science and programming. 
+#### Researcher with a strong background in math, science and programming (Python, R, SQL, Markdown). 
 ###### [ [Twitter](https://twitter.com/datum_geek) ] . [ hachaichi_mohamed@outlook.com ] . [ (+33) 635 549 103 ]
 
 Experience
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Assistant Researcher, [EM Normandie]('https://www.em-normandie.com/en/caen-campus')** (11/2021-07/2022, Caen France)s
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Collecting, cleaning & harmonizing COVID-19-related data:  
+Explaining the spatial diffusion of the COVID-19 across EU regions (spatial econometrics models)
+Explain why some regions were severely hit by the virus and others were not.
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Center Manager, [Stellenbosch University]("https://arua.org.za/centres-of-excellence/coe-energy/#:~:text=The%20ARUA%20CoE%20in%20Energy,sustainable%20agricultural%20development%20in%20Africa.")** (2011-2012, Cape Twon South Africa)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- CoT's WFE nexus model: a six-way perspective (compromising population, agriculture, water, energy, economy, and climate).
+The model uses a system dynamics framework. To predict water availability at the catchment areas, precipitation was predicted using 17 climate parameters through 3 climate scenarios using a downscaling process of Global Climate Models (GCM), and then after we used the downscaled data into a PCNN model using a Transfer-Learning approach. 
+Climate change - water scarcity - droughts
 
 Education
----------
-**Ph.D. program in Circular urban Metabolism and Climate Change** (10/2016 - 03/2021)
 
-- Research on transport in metal nanostructures. 
+---------
+**Ph.D. diploma in Circular urban Metabolism and Climate Change** (10/2016 - 03/2021)
+
+- Carbon carrying capacity 
 - Coursework in physics, engineering, and statistics.
 
 **B.S. in Physics, Indiana University** (2008-2011)
@@ -34,16 +39,14 @@ Skills
 ------
 **Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
-
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch 
 
 Projects
 --------
 **[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
 - Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+
+Publications 
+--------
+- Research 
