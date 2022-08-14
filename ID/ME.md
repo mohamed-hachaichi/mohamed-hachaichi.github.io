@@ -1,8 +1,13 @@
-<h2 style="text-align:center">About Me</h2>
-            <h2>Mohamed Hachaichi</h2>
-            <p class="title">Urban climate intellegence researcher</p>
-            <p>Mohamed Hachaichi fills urban/region research position. He holds a Ph.D in circular urban metabolism and climate change from the laboratory of "Cities, Urbanism and Sustainable Development". His research focuses on assessing the climate impacts and incorporating the climate component in the growth process of Middle-Income Countries (MICs). He intends to orchestrate several research projects (sea-level rise & machine learning, WFE nexus & system dynamics, planetary boundaries & gamification, smart cities & idling capacity), both within and outside academia.</p>
-            <p>hachaichi_mohamed@outlook.com</p>
+**About Me**
+
+**_Mohamed Hachaichi_**
+
+_Urban climate intellegence researcher_
+
+
+            Mohamed Hachaichi fills urban/region research position. He holds a Ph.D in circular urban metabolism and climate change from the laboratory of "Cities, Urbanism and Sustainable Development". His research focuses on assessing the climate impacts and incorporating the climate component in the growth process of Middle-Income Countries (MICs). He intends to orchestrate several research projects (sea-level rise & machine learning, WFE nexus & system dynamics, planetary boundaries & gamification, smart cities & idling capacity), both within and outside academia.
+
+            hachaichi_mohamed@outlook.com
             
 
 # I specialize in 

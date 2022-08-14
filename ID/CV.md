@@ -34,8 +34,8 @@ Climate change - water scarcity - droughts
 
 
 Education
-
 ---------
+
 **Ph.D. diploma in Circular urban Metabolism and Climate Change** (10/2016 - 03/2021)
 
 - Carbon carrying capacity 
