@@ -5,9 +5,9 @@
 _Urban climate intellegence researcher_
 
 
-            Mohamed Hachaichi fills urban/region research position. He holds a Ph.D in circular urban metabolism and climate change from the laboratory of "Cities, Urbanism and Sustainable Development". His research focuses on assessing the climate impacts and incorporating the climate component in the growth process of Middle-Income Countries (MICs). He intends to orchestrate several research projects (sea-level rise & machine learning, WFE nexus & system dynamics, planetary boundaries & gamification, smart cities & idling capacity), both within and outside academia.
+Mohamed Hachaichi fills urban/region research position. He holds a Ph.D in circular urban metabolism and climate change from the laboratory of "Cities, Urbanism and Sustainable Development". His research focuses on assessing the climate impacts and incorporating the climate component in the growth process of Middle-Income Countries (MICs). He intends to orchestrate several research projects (sea-level rise & machine learning, WFE nexus & system dynamics, planetary boundaries & gamification, smart cities & idling capacity), both within and outside academia.
 
-            hachaichi_mohamed@outlook.com
+Email: **_hachaichi_mohamed@outlook.com_**
             
 
 # I specialize in 
