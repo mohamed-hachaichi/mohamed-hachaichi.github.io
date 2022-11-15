@@ -6,13 +6,24 @@ Mohamed Hachaichi
 
 Academic referees 
 ---------
-- [Prof. Sebastien Bourdin](sbourdin@em-normenaide.fr): Professor of economic geography at EM Normandie (Caen, France)
-- [Prof. Neill Goosen](njgoosen@sun.ac.za): Professor at Stennlenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
-- [Prof. Tahar Boauni](tbaouni@yahoo.fr): Professor of transport engineering at the Polytechnic School of Architecture and Urbanism (Algiers, Algeria) 
+- [Prof. Sebastien Bourdin] sbourdin@em-normenaide.fr: Professor of economic geography at EM Normandie (Caen, France)
+- [Prof. Neill Goosen]njgoosen@sun.ac.za: Professor at Stennlenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
+- [Prof. Tahar Boauni]tbaouni@yahoo.fr: Professor of transport engineering at the Polytechnic School of Architecture and Urbanism (Algiers, Algeria) 
  
 
 Experience
 ---------
+
+**Post doctoral fellowship, [Institue of Urbanism and Geography Alps]('https://iuga.univ-grenoble-alpes.fr')** (10/2022-10/2024, Grenoble, France)
+
+Territorial systems' resilience: 
+* Ecological metabolism is composed of two entries: (i) Input section includes water, raw materials inputs, and energy. (ii) Output includes carbon emissions (CO2), waste water, and solid wastes. 
+* Affluence flux. 
+* Governance structure.
+
+The support position of the three systems is suppose to provide clear indication if regional systems are vulnerable or resilient to local and global dynamics.
+
+
 **Assistant Researcher, [EM Normandie]('https://www.em-normandie.com/en/caen-campus')** (11/2021-07/2022, Caen, France)
 
 - Collecting, cleaning & harmonizing COVID-19-related data:  
@@ -45,7 +56,13 @@ Education
 
 - Master's degree: A student level, ranked 3th, from 183 students). 
 
-**E-Learning section** (ongoing)
+**E-Learning section**
+
+- Certificied as Transformers architecture NLP matser,
+NVIDIA DLI Certificate of competency 
+Deep Learning Institute (DLI)
+
+
 - Certified as Data Analyst, Data Analyst Certification, 
 One Million Arab Coders Initiative 
 Minister of Artificial Intelligence, UAE
@@ -70,7 +87,7 @@ Skills
 
 Projects
 --------
-**[*Geosis]()** (2022-present)
+**[*Geosis](https://pypi.org/project/Geosis/)** (2022-present)
 
 - A python package for advanced geographic analysis (geoparsing, network analysis, community detection, and spatial mapping).  
 
@@ -81,6 +98,9 @@ Projects
 
 Publications 
 --------
+
+- [Hachaichi, M. 2022. "Cities: Allocating climate change responsibilities at planetary scale"](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
+
 
 - [Hachaichi, M, 2022 -preprint-. “Reshaping modern urban models with the global environmental ceiling: What, When How, and Why?”](https://www.researchgate.net/publication/359134024_Reshaping_modern_urban_models_with_the_global_environmental_ceiling_What_when_how_and_why)
 
@@ -110,4 +130,6 @@ Organization committee member in scientific workshops
 - International colloquium organized by the Cities, Urban Planning, and Sustainable Development Laboratory at EPAU "Citizen and inhabitant participation in social and urban development: Between 'good practices' and political slogan. Crossed views in the Algerian and international contexts", Algiers, 17-18 May 2017.
 
 - Thematic day organized by the Ecole Polytechnique d'Architecture et d'Urbanisme (EPAU) "Use of new technologies of BIM in the process of documentation of the built environment", Algiers, 17-18 May 2017. Algerian Experiences " 06 Nov 2017.
+
+
 
