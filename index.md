@@ -13,7 +13,7 @@
 ---
 
 ### Research Areas of Intrerest 
-[Project 6: Climate Data Generation: Building a Global Databse]([https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
+[Project 6: Climate Data Generation: Building a Global Databse](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
 
 <img src="images/6.png?raw=true"/>
 
