@@ -13,6 +13,15 @@
 ---
 
 ### Research Areas of Intrerest 
+
+
+[Project 7: Territorial impacts of COVID-19 and policy answers in European regions and cities](https://www.researchgate.net/publication/365703317_Territorial_impacts_of_COVID-19_and_policy_answers_in_European_regions_and_cities)
+
+<img src="images/7.png?raw=true"/>
+
+---
+
+### Research Areas of Intrerest 
 [Project 6: Climate Data Generation: Building a Global Databse](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
 
 <img src="images/6.png?raw=true"/>

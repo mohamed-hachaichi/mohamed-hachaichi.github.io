@@ -2,13 +2,13 @@ Mohamed Hachaichi
 ======
 
 #### Researcher with a strong background in linear algebra, statistics, science and programming. 
-###### [ [Twitter](https://twitter.com/datum_geek) ] . [ hachaichi_mohamed@outlook.com ] . [ (+33) 635 549 103 ]
+###### [ [Twitter](https://twitter.com/datum_geek) ] . hachaichi_mohamed@outlook.com . (+33) 635 549 103
 
 Academic referees 
 ---------
-- [Prof. Sebastien Bourdin] sbourdin@em-normenaide.fr: Professor of economic geography at EM Normandie (Caen, France)
-- [Prof. Neill Goosen]njgoosen@sun.ac.za: Professor at Stennlenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
-- [Prof. Tahar Boauni]tbaouni@yahoo.fr: Professor of transport engineering at the Polytechnic School of Architecture and Urbanism (Algiers, Algeria) 
+- **Prof. Sebastien Bourdi:** sbourdin@em-normenaide.fr: Professor of economic geography at EM Normandie (Caen, France)
+- **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor at Stennlenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
+- **Prof. Tahar Boauni:** tbaouni@yahoo.fr: Professor of transport engineering at the Polytechnic School of Architecture and Urbanism (Algiers, Algeria) 
  
 
 Experience
