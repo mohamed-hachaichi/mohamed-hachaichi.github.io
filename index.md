@@ -1,63 +1,18 @@
-## About me 
+## Mohamed Hachaichi 
 
-- [CV](./ID/CV.md)
-- [Who I'm?](./ID/ME.md)
-- [Developper of Geosis]("https://pypi.org/project/Geosis/")
+
+## [CV](./ID/CV.md) - [Cover Letter](./ID/ME.md) - [Research]()
+
+
+## [Enlighten Podcast](https://www.youtube.com/channel/UCdJSjE9TTQqJOnYjjloJHfA) - [Developer](https://pypi.org/project/Geosis/) 
+
+Thank you for visiting my personal website. I am a Postdoctoral Researcher at the Institute of Urbanism and Geography Alpes (IUGA) at Grenoble University. I am also a nomad researcher affilaited to an international network of researchers working on "rapide whole system change". I hold a PhD in Architecture and Urbanism from the Polytechnic school of Architecutre and Urbanism (Algiers-Algeria). 
+
+My research interest is in applied urban and regional economics, with an emphasis on the role of social interactions in determining economic outcomes of people and places. My current work considers how job information networks and peer effects differ between individuals with different backgrounds. In other work, I also looked at the diffusion over social networks of plausibly exogenous local economic shocks across geographically distant labour markets, and at the role of social connectedness in the transfer of knowledge.
+
+Outside of academia, I consulted in various capacities for the public sector, conducting studies and evaluations, notably in the area of EU regional policy. I am experienced in the quantitative analysis of local economies, including the application of spatial econometric techniques, geographic information systems, and the study of networks.
+ 
 
 ## Support 
 
 <a href="https://www.buymeacoffee.com/mohamedhacJ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## Portfolio
-
----
-
-### Research Areas of Intrerest 
-
-
-[Project 7: Territorial impacts of COVID-19 and policy answers in European regions and cities](https://www.researchgate.net/publication/365703317_Territorial_impacts_of_COVID-19_and_policy_answers_in_European_regions_and_cities)
-
-<img src="images/7.png?raw=true"/>
-
----
-
-### Research Areas of Intrerest 
-[Project 6: Climate Data Generation: Building a Global Databse](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
-
-<img src="images/6.png?raw=true"/>
-
----
-[Project 5: Water-Food-Energy Nexus: A state of art](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
-
-<img src="images/5.png?raw=true"/>
-
----
-[Project 4: Virtual carbon emissions in the big cities of middle-income countries](https://www.researchgate.net/publication/354968873_Virtual_carbon_emissions_in_the_big_cities_of_middle-income_countries)
-
-<img src="images/4.png?raw=true"/>
-
---- 
-[Project 3: Downscaling the planetary boundaries (Pbs) framework to city scale-level: De-risking MENA region’s environment future](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
-
-<img src="images/3.png?raw=true"/>
-
----
-[Project 2: City Carbon Carrying Capacity (C4) framework](https://www.researchgate.net/publication/341526589_Evaluating_City_Carbon_Carrying_Capacity_How_many_people_can_Algiers_sustain)
-
-<img src="images/2.png?raw=true"/>
-
----
-[Project 1: Carbon Footprint for Energy Transition](https://www.researchgate.net/publication/342503813_The_Carbon_Footprint_Model_as_a_plea_for_Cities_towards_Energy-Transition_The_case_of_Algiers-Algeria)
-
-<img src="images/1.png?raw=true"/>
-
----
-
-
-## Interviews 
-- [James Gein Wong](./interviews/James.md)
-
-- [Anthony Austin](./interviews/Anthony_Austin.md)
-
-- [Agnis Stibe](./interviews/Agnis_Stibe.md)
-
