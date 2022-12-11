@@ -21,9 +21,6 @@ Territorial systems' resilience:
 * Affluence flux. 
 * Governance structure.
 
-The support position of the three systems is suppose to provide clear indication if regional systems are vulnerable or resilient to local and global dynamics.
-
-
 **Assistant Researcher, [EM Normandie]('https://www.em-normandie.com/en/caen-campus')** (11/2021-07/2022, Caen, France)
 
 - Collecting, cleaning & harmonizing COVID-19-related data:  
@@ -76,7 +73,7 @@ Programming with python
 Intership
 ----
 Potsdam Institute for climate impact research 
-Research domain IV: Transdisciplinary Concepts & Methods  
+Research domain IV: [Transdisciplinary Concepts & Methods ](https://www.pik-potsdam.de/en) 
 
 
 Skills
@@ -111,6 +108,13 @@ Publications
 - [Mohamed H, Jan K, Tahar B, 2020, “Evaluating city carbon Carrying capacity: How many people can Algiers support?”. Algerian Journal of environmental science and technology](https://www.researchgate.net/publication/341526589_Evaluating_City_Carbon_Carrying_Capacity_How_many_people_can_Algiers_sustain)
 
 - [Mohamed H, Tahar B, 2019, “The carbon footprint model as a plea for cities towards energy transition: The case of Algiers, Algeria”. International Journal of Energy and Environmental Engineering](https://www.researchgate.net/publication/342503813_The_Carbon_Footprint_Model_as_a_plea_for_Cities_towards_Energy-Transition_The_case_of_Algiers-Algeria)
+
+Scientific reports (technical reports) 
+--------
+
+- [Territorial impacts of COVID-19 and policy answers in European regions and cities](https://www.researchgate.net/publication/365703317_Territorial_impacts_of_COVID-19_and_policy_answers_in_European_regions_and_cities)
+
+
 
 Scientific conferences
 -------
