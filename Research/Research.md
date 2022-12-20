@@ -25,6 +25,16 @@ _"Computing global cities' carbon footprints is core in allocating regional clim
 
 ---
 
+[Hachaichi, M. (2022). Reshaping modern urban models with the global environmental ceiling: What, when, how, and why?.](https://www.researchgate.net/publication/359134024_Reshaping_modern_urban_models_with_the_global_environmental_ceiling_What_when_how_and_why)
+
+## Abstract
+
+_"Since the Industrial Revolution and with the rapid changes of production-consumption paradigms, cities have become a hot-spot for materials and energy consumption. Urban anthropogenic activities have given birth to many multi-scalar environmental distortions such as: global warming, biodiversity loss, waste disposal, and many other inter-linked environmental damages. Unfortunately, Earth's life-support system is compromising each year and it is unable to sustain the upcoming population growth and its divergent needs, as such, bringing the world's economy with the global environmental thresholds is irrefutable to maintain human civilization in our solar system. This study tends to exhibit that, within our current environmental uncertainties, contemporary cities-within the digital age-must reshape their urban model in concordance with the Planetary Boundaries' 1 (PBs) framework. Our goal is to show that MIC's urban ecosystems are not in a dynamic nor in a static equilibrium likewise they are too vulnerable to the new extreme climate events. Redesigning cities' urban model using environmental thresholds "biocapacity" is thus highly relevant to upgrade the coping capacity of urban ecosystems. Notice that the current article does not aim to explain the divergent trans-disciplinary meanings of resiliency nor the dilemma of whether to include or exclude the carbon footprint component from the ecological footprint indicator. Not surprisingly, we highly believe that "resiliency" could be a new urban utopia, the vague promise of a radiant horizon for humankind survival from the terrifying perspective of the Anthropocene."_
+
+<img src="images/66.jpg?raw=true"/>
+
+---
+
 [Hachaichi, M., & Egieya, J. (2022). Water-food-energy nexus in global cities: solving urban challenging interdependencies together.](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
 
 ### Abstract 
