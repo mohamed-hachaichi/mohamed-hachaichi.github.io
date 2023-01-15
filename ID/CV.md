@@ -1,39 +1,49 @@
 Mohamed Hachaichi
+(Ph.D)
 ======
 
 #### Researcher with a strong background in linear algebra, statistics, science and programming. 
-###### [ [Twitter](https://twitter.com/datum_geek) ] . hachaichi_mohamed@outlook.com . (+33) 635 549 103
+
+###### [ [Personal website](https://mohamed-hachaichi.github.io) ] . [ [Twitter](https://twitter.com/datum_geek) ] . [ [Website](https://mohamed-hachaichi.github.io) ]. [ [Google Scholar](https://scholar.google.com/citations?user=xaceBrYAAAAJ&hl=en) ] . 
+
+###### hachaichi_mohamed@outlook.com . (+33) 635 549 103
+
+_I am a Postdoctoral Researcher at the Institute of Urbanism and Geography Alpes (IUGA) at Grenoble Aples University. I hold a Ph.D. in circular urban metabolism and climate change delivered by the laboratory of "Cities, Urbanism and Sustainable development" at the Polytechnic school of Architecture and Urbanism (Algiers-Algeria)._
+
+_Currently interested in designing a rapid whole system change on a global scale using new relevant sustainability metrics in a data-driven approach. I Aim to clearly identify social tipping points using behavioral mechanisms and pattern recognition to find structure in chaotic social/economic/urban environments._
 
 Academic referees 
 ---------
-- **Prof. Sebastien Bourdi:** sbourdin@em-normenaide.fr: Professor of economic geography at EM Normandie (Caen, France)
-- **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor at Stennlenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
+- **Prof. Sebastien Bourdin:** sbourdin@em-normenaide.fr: Professor of economic geography at EM Normandie (Caen, France)
+
+- **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor of process engineering at Stellenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
+
 - **Prof. Tahar Boauni:** tbaouni@yahoo.fr: Professor of transport engineering at the Polytechnic School of Architecture and Urbanism (Algiers, Algeria) 
  
 
 Experience
 ---------
 
-**Post doctoral fellowship, [Institue of Urbanism and Geography Alps]('https://iuga.univ-grenoble-alpes.fr')** (10/2022-10/2024, Grenoble, France)
+**Post doctoral fellowship, [Institue of Urbanism and Geography Alps]('https://iuga.univ-grenoble-alpes.fr')** (10/2022 - 10/2023, Grenoble, France)
 
-Territorial systems' resilience: 
-* Ecological metabolism is composed of two entries: (i) Input section includes water, raw materials inputs, and energy. (ii) Output includes carbon emissions (CO2), waste water, and solid wastes. 
-* Affluence flux. 
-* Governance structure.
+- Territorial systems' resilience: 
+   - Ecological metabolism is composed of two entries: (i) Input section includes water, raw materials inputs, and energy. (ii) Output includes carbon emissions (CO2), waste water, and solid wastes. 
+  - Affluence flux. 
+  - Governance structure.
 
-**Assistant Researcher, [EM Normandie]('https://www.em-normandie.com/en/caen-campus')** (11/2021-07/2022, Caen, France)
+**Assistant Researcher, [EM Normandie Business School]('https://www.em-normandie.com/en/caen-campus')** (11/2021 - 07/2022, Caen, France)
 
 - Collecting, cleaning & harmonizing COVID-19-related data:  
-Explaining the spatial diffusion of the COVID-19 across EU regions (spatial econometrics models)
-Explain why some regions were severely hit by the virus and others were not.
+  - Explaining the spatial diffusion of the COVID-19 across EU regions (spatial econometrics models). 
+  - Explain why some regions were severely hit by the virus and others were not.
 
-**Center Manager, [Stellenbosch University]("https://arua.org.za/centres-of-excellence/coe-energy/#:~:text=The%20ARUA%20CoE%20in%20Energy,sustainable%20agricultural%20development%20in%20Africa.")** (2011-2012, Cape Twon, South Africa)
+**Center Manager, [Stellenbosch University]("https://arua.org.za/centres-of-excellence/coe-energy/#:~:text=The%20ARUA%20CoE%20in%20Energy,sustainable%20agricultural%20development%20in%20Africa.")** (2011 - 2012, Cape Twon, South Africa)
 
 - CoT's WFE nexus model: a six-way perspective (compromising population, agriculture, water, energy, economy, and climate).
 The model uses a system dynamics framework. To predict water availability at the catchment areas, precipitation was predicted using 17 climate parameters through 3 climate scenarios using a downscaling process of Global Climate Models (GCM), and then after we used the downscaled data into a PCNN model using a Transfer-Learning approach. 
-Climate change - water scarcity - droughts
+- Climate change - water scarcity - droughts
 
-**University teacher, [Polytechnic School of Architecture and Urbanism]('http://www.epau-alger.edu.dz')** (11/2021-07/2022, Algiers, Algeria)
+**University teacher, [Polytechnic School of Architecture and Urbanism]('http://www.epau-alger.edu.dz')** (11/2021 - 07/2022, Algiers, Algeria)
 
 - Teaching classes with 25 students, subject: 3D modulization using Revit and 3Dmax 
 - Prepare and correct exams  
@@ -49,16 +59,15 @@ Education
 - Carbon carrying capacity 
 - Coursework in physics, engineering, and statistics.
 
-**MS.s in Architecture and Urban Project** (2008-2011)
+**MS.s diploma in Architecture and Urban Project** (2008 - 2011)
 
-- Master's degree: A student level, ranked 3th, from 183 students). 
+- Master's degree: A student level, ranked 3th out of 183 students). 
 
 **E-Learning section**
 
 - Certificied as Transformers architecture NLP matser,
 NVIDIA DLI Certificate of competency 
 Deep Learning Institute (DLI)
-
 
 - Certified as Data Analyst, Data Analyst Certification, 
 One Million Arab Coders Initiative 
@@ -82,7 +91,17 @@ Skills
 
 **Python Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, TenserFlow,  
 
-Projects
+
+Languages
+------
+
+- Amazigh: read, speak, write. 
+- Arabic: read, speak, write. 
+- French: read, speak, write. 
+- English: read, speak, write. 
+- Deutsch: read, speak, write. 
+
+Side-Projects
 --------
 **[*Geosis](https://pypi.org/project/Geosis/)** (2022-present)
 
@@ -127,13 +146,29 @@ Scientific conferences
 
 - Global Conference on Economic Geography (GCOEG), Machine Learning Meets Economic Geography: Alternative Data and Methods for Mapping and Analysing Geographies of Knowledge Production and Knowledge Relations, 2022, Dublin-Ireland, “Wheels within wheels, tracking the gleam of the circular economy using machine learning”. 
 
+- 5th international conference on technologies & business models for circular economy, 2022, University of Maribor Press, “Urban Water-Food-Energy Interdependences: Solving Urban Challenges Together”, Mohamed Hachaichi, Jafaru Musa Egieya, Neill Goosen.
+
+- Dimitrie Cantemir International Geographical Conference – ESPON TERRCOV Workshop, 2022, Iasi-Romania, “The spread of the COVID-19 pandemic in Europe - changing spatiotemporal patterns of pandemic indicators”. Andris Igari, Mohamed Hachaichi.
+
+Seminars
+-------
+
+- Universitat Autònoma de Barcelona, Facultat Economia i Empresa, Departament Economia Aplicada, “COVID-19 in European regions: Explaining disparities”, 2022, Sébastien Bourdin, Mohamed Hachaichi.
+
+- Universitat Autònoma de Barcelona, Facultat Economia i Empresa, Departament Economia Aplicada, “Territorial impacts of COVID-19 pandemic on EU regions”, 2022, Sébastien Bourdin, Mohamed Hachaichi.
 
 Organization committee member in scientific workshops  
 ------
 
 - International colloquium organized by the Cities, Urban Planning, and Sustainable Development Laboratory at EPAU "Citizen and inhabitant participation in social and urban development: Between 'good practices' and political slogan. Crossed views in the Algerian and international contexts", Algiers, 17-18 May 2017.
 
-- Thematic day organized by the Ecole Polytechnique d'Architecture et d'Urbanisme (EPAU) "Use of new technologies of BIM in the process of documentation of the built environment", Algiers, 17-18 May 2017. Algerian Experiences " 06 Nov 2017.
+- Thematic day organized by the Ecole Polytechnique d'Architecture et d'Urbanisme (EPAU) "Use of new technologies of BIM in the process of documentation of the built environment", Algiers, 17-18 May 2017. Algerian Experiences" 06 Nov 2017.
 
+Reviewer 
+------
+I'm a reviwer at the following journals: 
 
-
+- Ecological Indicators Journal, Elsevier
+- Environment, Development and Sustainability, Springer-nature
+- Urban climate, Elsevier
+- Regional Studies
