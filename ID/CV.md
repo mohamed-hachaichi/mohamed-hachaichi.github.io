@@ -1,5 +1,5 @@
-Mohamed Hachaichi
-(Ph.D)
+Mohamed Hachaichi (Ph.D)
+
 ======
 
 #### Researcher with a strong background in linear algebra, statistics, science and programming. 
