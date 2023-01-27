@@ -1,8 +1,8 @@
 Mohamed Hachaichi (Ph.D)
+---------
 
-======
+*__Researcher with a strong background in linear algebra, statistics, science and programming.__*
 
-#### Researcher with a strong background in linear algebra, statistics, science and programming. 
 
 ###### [ [Personal website](https://mohamed-hachaichi.github.io) ] . [ [Twitter](https://twitter.com/datum_geek) ] . [ [Website](https://mohamed-hachaichi.github.io) ]. [ [Google Scholar](https://scholar.google.com/citations?user=xaceBrYAAAAJ&hl=en) ] . 
 
@@ -168,7 +168,7 @@ Reviewer
 ------
 I'm a reviwer at the following journals: 
 
-- Ecological Indicators Journal, Elsevier
-- Environment, Development and Sustainability, Springer-nature
-- Urban climate, Elsevier
-- Regional Studies
+- [Ecological Indicators Journal](https://www.springer.com/journal/10668), Elsevier
+- [Environment, Development and Sustainability](https://www.springer.com/journal/10668), Springer-nature
+- [Urban climate](https://www.sciencedirect.com/journal/urban-climate), Elsevier
+- [Water resources managment](https://www.springer.com/journal/11269), Springer
