@@ -14,7 +14,7 @@ _Currently interested in designing a rapid whole system change on a global scale
 
 Academic referees 
 ---------
-- **Dr. Jafaru Egeiya:** sbourdin@em-normenaide.fr: PostDoc at the University of Stellenbosch (Cape Town, South Africa)
+- **Dr. Jafaru Egeiya:** jafaruegieya@gmail.com: Postdoctoral researcher at the Stellenbosch University (Cape Town, South Africa)
 
 - **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor of process engineering at Stellenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
 
