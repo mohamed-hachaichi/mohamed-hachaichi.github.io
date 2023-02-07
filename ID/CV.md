@@ -14,7 +14,7 @@ _Currently interested in designing a rapid whole system change on a global scale
 
 Academic referees 
 ---------
-- **Prof. Sebastien Bourdin:** sbourdin@em-normenaide.fr: Professor of economic geography at EM Normandie (Caen, France)
+- **Dr. Jafaru Egeiya:** sbourdin@em-normenaide.fr: PostDoc at the University of Stellenbosch (Cape Town, South Africa)
 
 - **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor of process engineering at Stellenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
 
