@@ -4,21 +4,22 @@ Mohamed Hachaichi (Ph.D)
 *__Researcher with a strong background in linear algebra, statistics, science and programming.__*
 
 
-###### [ [Personal website](https://mohamed-hachaichi.github.io) ] . [ [Twitter](https://twitter.com/datum_geek) ] . [ [Website](https://mohamed-hachaichi.github.io) ]. [ [Google Scholar](https://scholar.google.com/citations?user=xaceBrYAAAAJ&hl=en) ] . 
+###### [ [Personal website](https://mohamed-hachaichi.github.io) ] . [ [Twitter](https://twitter.com/datum_geek) ] . [ [LinkedIn](https://www.linkedin.com/in/mohamed-hachaichi-07017212a/) ]. [ [Google Scholar](https://scholar.google.com/citations?user=xaceBrYAAAAJ&hl=en) ] . 
 
 ###### hachaichi_mohamed@outlook.com . (+33) 635 549 103
 
 _I am a Postdoctoral Researcher at the Institute of Urbanism and Geography Alpes (IUGA) at Grenoble Aples University. I hold a Ph.D. in circular urban metabolism and climate change delivered by the laboratory of "Cities, Urbanism and Sustainable development" at the Polytechnic school of Architecture and Urbanism (Algiers-Algeria)._
 
-_Currently interested in designing a rapid whole system change on a global scale using new relevant sustainability metrics in a data-driven approach. I Aim to clearly identify social tipping points using behavioral mechanisms and pattern recognition to find structure in chaotic social/economic/urban environments._
+_Currently interested in designing a rapid whole system change on a global scale using new relevant sustainability metrics in a data-driven approach coupled with Artificial Intelligence (AI) algorithms. I Aim to clearly identify social tipping points using behavioral mechanisms and pattern recognition to find structure in chaotic social/economic/urban environments._
 
 Academic referees 
 ---------
+
+- **Prof. Sebastien Bourdin:** sbourdin@em-normandie.fr: Professor of Economic Geographiy at EM Normandy Business School, Economy, Territories & Sustainable Development Department (Caen, France) 
+
 - **Dr. Jafaru Egeiya:** jafaruegieya@gmail.com: Postdoctoral researcher at the Stellenbosch University (Cape Town, South Africa)
 
 - **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor of process engineering at Stellenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
-
-- **Prof. Tahar Boauni:** tbaouni@yahoo.fr: Professor of transport engineering at the Polytechnic School of Architecture and Urbanism (Algiers, Algeria) 
  
 
 Experience
@@ -89,7 +90,7 @@ Skills
 ------
 **Programming:** Python, SQL, R, git, HTML/CSS, Pytorch, TenserFlow
 
-**Python Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, TenserFlow,  
+**Python Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, TenserFlow, Dask 
 
 
 Languages
@@ -114,6 +115,9 @@ Side-Projects
 
 Publications 
 --------
+
+- [Hachaichi, M., & Egieya, J. (2023). "Water-Food-Energy Nexus in Global Cities: Addressing Complex Urban Interdependencies"](https://link.springer.com/article/10.1007/s11269-023-03455-7)
+
 
 - [Hachaichi, M. 2022. "Cities: Allocating climate change responsibilities at planetary scale"](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
 
