@@ -115,28 +115,28 @@ Side-Projects
 
 Publications 
 --------
+- [Egieya, J. M.A. Amidu, Hachaichi, M. (2023) "Small modular reactors: An assessment of workforce requirements and operating costs"](https://www.sciencedirect.com/science/article/pii/S0149197023000677?via%3Dihub)
 
 - [Hachaichi, M., & Egieya, J. (2023). "Water-Food-Energy Nexus in Global Cities: Addressing Complex Urban Interdependencies"](https://link.springer.com/article/10.1007/s11269-023-03455-7)
 
 
-- [Hachaichi, M. 2022. "Cities: Allocating climate change responsibilities at planetary scale"](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
+- [Hachaichi, M. (2022). "Cities: Allocating climate change responsibilities at planetary scale"](https://www.researchgate.net/publication/364769527_Cities_Allocating_climate_change_responsibilities_at_planetary_scale)
 
 
-- [Hachaichi, M, 2022 -preprint-. “Reshaping modern urban models with the global environmental ceiling: What, When How, and Why?”](https://www.researchgate.net/publication/359134024_Reshaping_modern_urban_models_with_the_global_environmental_ceiling_What_when_how_and_why)
+- [Hachaichi, M, (2022) -preprint-. “Reshaping modern urban models with the global environmental ceiling: What, When How, and Why?”](https://www.researchgate.net/publication/359134024_Reshaping_modern_urban_models_with_the_global_environmental_ceiling_What_when_how_and_why)
 
-- [Hachaichi, M. and Baouni, T., 2021. “Virtual carbon emissions in the big cities of middle-income countries”. Urban Climate, 40, p.100986](https://www.researchgate.net/publication/354968873_Virtual_carbon_emissions_in_the_big_cities_of_middle-income_countries)
+- [Hachaichi, M. and Baouni, T., (2021). “Virtual carbon emissions in the big cities of middle-income countries”. Urban Climate, 40, p.100986](https://www.researchgate.net/publication/354968873_Virtual_carbon_emissions_in_the_big_cities_of_middle-income_countries)
 
-- [Mohamed H, Tahar B, 2020, “Downscaling the planetary boundaries (Pbs) to city scale-level: De-risking MENA region’s environment future”. Environmental and Sustainability Indicators, Elsevier](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
+- [Mohamed H, Tahar B, (2020), “Downscaling the planetary boundaries (Pbs) to city scale-level: De-risking MENA region’s environment future”. Environmental and Sustainability Indicators, Elsevier](https://www.researchgate.net/publication/338721106_Downscaling_the_planetary_boundaries_Pbs_framework_to_city_scale-level_De-risking_MENA_region's_environment_future)
 
-- [Mohamed H, Jan K, Tahar B, 2020, “Evaluating city carbon Carrying capacity: How many people can Algiers support?”. Algerian Journal of environmental science and technology](https://www.researchgate.net/publication/341526589_Evaluating_City_Carbon_Carrying_Capacity_How_many_people_can_Algiers_sustain)
+- [Mohamed H, Jan K, Tahar B, (2020), “Evaluating city carbon Carrying capacity: How many people can Algiers support?”. Algerian Journal of environmental science and technology](https://www.researchgate.net/publication/341526589_Evaluating_City_Carbon_Carrying_Capacity_How_many_people_can_Algiers_sustain)
 
-- [Mohamed H, Tahar B, 2019, “The carbon footprint model as a plea for cities towards energy transition: The case of Algiers, Algeria”. International Journal of Energy and Environmental Engineering](https://www.researchgate.net/publication/342503813_The_Carbon_Footprint_Model_as_a_plea_for_Cities_towards_Energy-Transition_The_case_of_Algiers-Algeria)
+- [Mohamed H, Tahar B, (2019), “The carbon footprint model as a plea for cities towards energy transition: The case of Algiers, Algeria”. International Journal of Energy and Environmental Engineering](https://www.researchgate.net/publication/342503813_The_Carbon_Footprint_Model_as_a_plea_for_Cities_towards_Energy-Transition_The_case_of_Algiers-Algeria)
 
 Scientific reports (technical reports) 
 --------
 
 - [Territorial impacts of COVID-19 and policy answers in European regions and cities](https://www.researchgate.net/publication/365703317_Territorial_impacts_of_COVID-19_and_policy_answers_in_European_regions_and_cities)
-
 
 
 Scientific conferences

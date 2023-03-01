@@ -1,6 +1,20 @@
 
 
-### Research papers and Work in Progres 
+### Research papers 
+
+
+[Small modular reactors: An assessment of workforce requirements and operating costs](https://www.sciencedirect.com/science/article/abs/pii/S0149197023000677?dgcid=coauthor)
+
+### Abstract 
+
+_"In the past seven years, global warming discourse has revolved around restricting temperature increases to under 2 °C above pre-industrial levels by utilizing such low-carbon energy sources as nuclear, solar, and wind energy. However, the use of nuclear energy for electricity generation via conventional nuclear power plants (NPPs) has met stiff challenges due to high capital costs, thereby constraining newcomer nations. A solution contending high capital costs for NPPs is the introduction of small modular reactors (SMRs) that has garnered attention over the past ten years because of their lower initial capital investment, scalability, and ease of deployment for less developed electricity grid and small areas of low electricity demand. In this study, the workforce requirements and salaries component for operating workers of 300 MWe integral Pressurized Water Reactors (iPWR) SMR is modeled and assessed using an upgraded International Atomic Energy Agency (IAEA) Nuclear Power Human Resources (NPHR) modeling tool from 2018 to 2055. The results show that at a discount rate of 10% an average annual salary payment, the net present cost (NPC) for the operating workers is approximately 431 million USD with a standard deviation of 8%. Moreover, the results further show that at the end of themodeling period and considering 43 function areas in a typical NPP, the top three functions to be recruited and contributing to the total domestic workers for a typical newcomer nuclear nation are Maintenance/Construction (18.17%), Operations (9.02%), and Management (8.22%) workers. The results enable the estimation of human resource requirements to operate an SMR over its life cycle, which in turn enables informed budgeting for human resources."_
+
+
+
+<img src="images/8.png?raw=true"/>
+
+---
+
 
 [Territorial impacts of COVID-19 and policy answers in European regions and cities](https://www.researchgate.net/publication/365703317_Territorial_impacts_of_COVID-19_and_policy_answers_in_European_regions_and_cities)
 
