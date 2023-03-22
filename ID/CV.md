@@ -44,13 +44,23 @@ Experience
 The model uses a system dynamics framework. To predict water availability at the catchment areas, precipitation was predicted using 17 climate parameters through 3 climate scenarios using a downscaling process of Global Climate Models (GCM), and then after we used the downscaled data into a PCNN model using a Transfer-Learning approach. 
 - Climate change - water scarcity - droughts
 
+
+
+Teaching
+---------
+**University lecturer, [Institue of Urbanism and Geography Alps]('https://iuga.univ-grenoble-alpes.fr')** (03/2023 - 04/2023, Grenoble, France)
+
+- Giving a series of lectuers at the department of urbanism of "Voirie et espace public" 
+- Creating excercices and correct them. 
+- Grading students 
+
+
 **University teacher, [Polytechnic School of Architecture and Urbanism]('http://www.epau-alger.edu.dz')** (11/2021 - 07/2022, Algiers, Algeria)
 
 - Teaching classes with 25 students, subject: 3D modulization using Revit and 3Dmax 
 - Prepare and correct exams  
 - Perform 3D modeling for complex buildings and shapes 
 - Participate in my lab work of Cities, urbanism, and Sustainable Development: accompany Master candidates, international conferences, writing papers. 
-
 
 Education
 ---------
@@ -115,6 +125,9 @@ Side-Projects
 
 Publications 
 --------
+
+- [Hachaichi, M. & Bourdin, S. (2023) "Wheels within wheels: Mapping the genealogy of circular economy using Machine Learning"](https://link.springer.com/article/10.1007/s43615-023-00260-7)
+
 - [Egieya, J. M.A. Amidu, Hachaichi, M. (2023) "Small modular reactors: An assessment of workforce requirements and operating costs"](https://www.sciencedirect.com/science/article/pii/S0149197023000677?via%3Dihub)
 
 - [Hachaichi, M., & Egieya, J. (2023). "Water-Food-Energy Nexus in Global Cities: Addressing Complex Urban Interdependencies"](https://link.springer.com/article/10.1007/s11269-023-03455-7)

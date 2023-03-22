@@ -2,6 +2,13 @@
 
 ### Research papers 
 
+[Wheels within wheels: Mapping the genealogy of circular economy using Machine Learning](https://link.springer.com/article/10.1007/s43615-023-00260-7)
+
+### Abstract 
+_"The literature on circular economy (CE) is growing significantly. Although the concept emerged in the 1970s, it is only very recently that it has gained interest in the scientific community. However, little is known about its genealogy, how the international community was formed, and how concepts were approached and developed by mobilizing different theoretical approaches, especially in humanities and social sciences. This study fills this gap by shedding light on the recent developments in the field from a regional perspective. We used computer-assisted methods (natural language processing, topic modeling, geoparsing, scientometrics, and computational linguistics) on textual data to capture the field’s framework evolution, highlight main topics, identify key drivers, map the geography of knowledge production, and scrutinize the numerous types of the spatial proximities waved between its actors. To our knowledge, this is the first attempt to trace the geographic genealogy of CE using large-scale textual data to produce in-depth knowledge regarding the spatiotemporal genesis of the field by unpacking how closed-loop systems are analyzed across regions, worldwide."_
+
+<img src="images/9.png?raw=true"/>
+---
 
 [Small modular reactors: An assessment of workforce requirements and operating costs](https://www.sciencedirect.com/science/article/abs/pii/S0149197023000677?dgcid=coauthor)
 
