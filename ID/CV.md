@@ -17,7 +17,7 @@ Academic referees
 
 - **Prof. Sebastien Bourdin:** sbourdin@em-normandie.fr: Professor of Economic Geographiy at EM Normandy Business School, Economy, Territories & Sustainable Development Department (Caen, France) 
 
-- **Dr. Jafaru Egeiya:** jafaruegieya@gmail.com: Postdoctoral researcher at the Stellenbosch University (Cape Town, South Africa)
+- **Dr. Jafaru Egeiya:** jafaruegieya@gmail.com: Postdoctoral researcher at Stellenbosch University (Cape Town, South Africa)
 
 - **Prof. Neill Goosen:** njgoosen@sun.ac.za: Professor of process engineering at Stellenbosch University and director of ARUA CoE in Energy (Cape Town, South Africa) 
  
@@ -99,9 +99,6 @@ Research domain IV: [Transdisciplinary Concepts & Methods ](https://www.pik-pots
 Skills
 ------
 **Programming:** Python, SQL, R, git, HTML/CSS, Pytorch, TenserFlow
-
-**Python Tools:** Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, TenserFlow, Dask 
-
 
 Languages
 ------
