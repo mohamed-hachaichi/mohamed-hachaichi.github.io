@@ -14,7 +14,7 @@
   <body style="background-color:#ECF0F1;">
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="background-color:powderblue;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -45,7 +45,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>...<a href="{{}}">{{ site.github.owner_name }}</a></p>
         {% endif %}
       </footer>
     </div>
