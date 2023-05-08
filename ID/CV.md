@@ -98,7 +98,7 @@ Research domain IV: [Transdisciplinary Concepts & Methods ](https://www.pik-pots
 
 Skills
 ------
-**Programming:** Python, SQL, R, git, HTML/CSS, Pytorch, TenserFlow
+**Programming:** Python, SQL, R, Fortran, git, HTML/CSS, Pytorch, TenserFlow
 
 Languages
 ------
