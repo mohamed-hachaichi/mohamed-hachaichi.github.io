@@ -123,6 +123,8 @@ Side-Projects
 Publications 
 --------
 
+- [Hachaichi, M. (2023). Unpacking the urban virtual water of the Global South: Lessons from 181 cities. Ecological Economics, 210, 107859.](https://www.sciencedirect.com/science/article/abs/pii/S0921800923001222)
+
 - [Hachaichi, M. & Bourdin, S. (2023) "Wheels within wheels: Mapping the genealogy of circular economy using Machine Learning"](https://link.springer.com/article/10.1007/s43615-023-00260-7)
 
 - [Egieya, J. M.A. Amidu, Hachaichi, M. (2023) "Small modular reactors: An assessment of workforce requirements and operating costs"](https://www.sciencedirect.com/science/article/pii/S0149197023000677?via%3Dihub)
