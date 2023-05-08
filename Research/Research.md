@@ -2,6 +2,18 @@
 
 ### Research papers 
 
+
+[Unpacking the urban virtual water of the Global South: Lessons from 181 cities](https://www.sciencedirect.com/science/article/abs/pii/S0921800923001222)
+
+### Abstract 
+_"Most of the water humanity currently consumes is invisible, it is embedded within goods and services purchased by final consumers from the global economic market. Cities of the Global South (GS) – especially African and Asian cities are facing twofold water security problems. First, the increased risk of water availability (both quantity and quality), which is exacerbated by climate change. Second, the ever-increasing water demand due to their economic and population growth. Therefore, to help cities of the GS to efficiently manage their water resources, it is crucial to explore what products are being imported from the global economic market and assess their embodied water intensities. Herein, the water footprints (blue and grey) of 181 cities from the GS are computed using Extended Environmental Input-Output Analysis (EE-IOA). Results point out that water imports through virtual water are significant and growing even across the GS with different magnitudes because of the economic attributes of cities (expenditures patterns) and their geography (spatial location). The average blue virtual water is estimated to be 253 l per capita/yr and 285 l per capita/yr for virtual grey water. When decomposing the water footprint we found that the major responsible sectors are “Food” accounting for 37% of the total footprint, followed by “Transport” with 24%, and “Energy” with 22%. To put the climate impacts in perspective, cities of the GS must act in a proactive approach and use the water-trade nexus as a supplementary approach to shape and implement water security strategies."_
+
+<img src="images/10.png?raw=true"/>
+
+
+---
+
+
 [Wheels within wheels: Mapping the genealogy of circular economy using Machine Learning](https://link.springer.com/article/10.1007/s43615-023-00260-7)
 
 ### Abstract 
