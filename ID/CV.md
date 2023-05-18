@@ -25,22 +25,21 @@ Experience
 **Post doctoral fellowship, [Institue of Urbanism and Geography Alps]('https://iuga.univ-grenoble-alpes.fr')** (10/2022 - 10/2023, Grenoble, France)
 
 - Territorial systems' resilience: 
-   - Ecological metabolism is composed of two entries: (i) Input section includes water, raw materials inputs, and energy. (ii) Output includes carbon emissions (CO2), waste water, and solid wastes. 
-  - Affluence flux. 
-  - Governance structure.
+- Ecological metabolism is composed of two entries: (i) Input section includes water, raw materials inputs, and energy. (ii) Output includes carbon emissions (CO2), waste water, and solid wastes. 
+- Affluence flux. 
+- Governance structure.
 
 **Assistant Researcher, [EM Normandie Business School]('https://www.em-normandie.com/en/caen-campus')** (11/2021 - 07/2022, Caen, France)
 
 - Collecting, cleaning & harmonizing COVID-19-related data:  
-  - Explaining the spatial diffusion of the COVID-19 across EU regions (spatial econometrics models). 
-  - Explain why some regions were severely hit by the virus and others were not.
+- Explaining the spatial diffusion of the COVID-19 across EU regions (spatial econometrics models). 
+- Explain why some regions were severely hit by the virus and others were not.
 
 **Center Manager, [Stellenbosch University]("https://arua.org.za/centres-of-excellence/coe-energy/#:~:text=The%20ARUA%20CoE%20in%20Energy,sustainable%20agricultural%20development%20in%20Africa.")** (2011 - 2012, Cape Twon, South Africa)
 
 - CoT's WFE nexus model: a six-way perspective (compromising population, agriculture, water, energy, economy, and climate).
 The model uses a system dynamics framework. To predict water availability at the catchment areas, precipitation was predicted using 17 climate parameters through 3 climate scenarios using a downscaling process of Global Climate Models (GCM), and then after we used the downscaled data into a PCNN model using a Transfer-Learning approach. 
 - Climate change - water scarcity - droughts
-
 
 
 Teaching
@@ -69,23 +68,8 @@ Education
 
 **MS.s diploma in Architecture and Urban Project** (2008 - 2011)
 
-- Master's degree: A student level, ranked 3th out of 183 students). 
+- Master's degree: A student level, (ranked 3ed out of 183 students). 
 
-**E-Learning section**
-
-- Certificied as Transformers architecture NLP matser,
-NVIDIA DLI Certificate of competency 
-Deep Learning Institute (DLI)
-
-- Certified as Data Analyst, Data Analyst Certification, 
-One Million Arab Coders Initiative 
-Minister of Artificial Intelligence, UAE
-
-- Certified as Data Scientist, Programming for Data Science 
-Africa next technology leaders 
-Programming with python
-
-- Machine Learning (Stanford, Andrew Ng)
 
 Intership
 ----
@@ -95,7 +79,10 @@ Research domain IV: [Transdisciplinary Concepts & Methods ](https://www.pik-pots
 
 Skills
 ------
-**Programming:** Python, SQL, R, Fortran, git, HTML/CSS, Pytorch, TenserFlow
+**Programming:** Python, SQL, R, Fortran, git, HTML/CSS, Pytorch, TenserFlow 
+**Mapping:** ArcGis, Qgis, Mapinfo (+ R & Python for spatial data science)
+**Graphic design:** Photoshop, Inkscape, InDesign, Illustrator
+
 
 Languages
 ------
