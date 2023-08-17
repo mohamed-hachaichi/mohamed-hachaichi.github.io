@@ -2,7 +2,7 @@
 
 _I use __Data__ to improve life on Earth._
 
-[CV](./ID/CV.md) - [Cover Letter](./ID/ME.md) - [Research](./Research/Research.md)
+[CV]([./ID/CV.md](https://docs.google.com/document/d/13JBk-icJjf_6psBvQdHXmSclHUYyBfXf/edit)) - [Cover Letter](./ID/ME.md) - [Research](./Research/Research.md)
 
 
 [Enlighten Podcast](https://www.youtube.com/channel/UCdJSjE9TTQqJOnYjjloJHfA) - [Software engineering](https://pypi.org/project/Geosis/) 
