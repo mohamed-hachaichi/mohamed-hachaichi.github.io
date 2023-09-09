@@ -2,6 +2,16 @@
 
 ### Research papers 
 
+[No City Left Behind: Building Climate Policy Bridges between the North and South](https://www.mdpi.com/2674-0494/2/3/24)
+
+### Abstract 
+
+_"Cities are progressively heightening their climate aspirations to curtail urban carbon emissions and establish a future where economies and communities can flourish within the Earth’s ecological limits. Consequently, numerous climate initiatives are being launched to control urban carbon emissions, targeting various sectors, including transport, residential, agricultural, and energy. However, recent scientific literature underscores the disproportionate distribution of climate policies. While cities in the Global North have witnessed several initiatives to combat climate change, cities in the Global South remain uncovered and highly vulnerable to climate hazards. To address this disparity, we employed the Balanced Iterative Reducing and Clustering using the Hierarchies (BRICH) algorithm to cluster cities from diverse geographical areas that exhibit comparable socioeconomic profiles. This clustering strives to foster enhanced cooperation and collaboration among cities globally, with the goal of addressing climate change in a comprehensive manner. In summary, we identified similarities, patterns, and clusters among peer cities, enabling mutual and generalizable learning among worldwide peer-cities regarding urban climate policy exchange. This exchange occurs through three approaches: (i) inner-mutual learning, (ii) cross-mutual learning, and (iii) outer-mutual learning. Our findings mark a pivotal stride towards attaining worldwide climate objectives through a shared responsibility approach. Furthermore, they provide preliminary insights into the implementation of “urban climate policy exchange” among peer cities on a global scale."_
+
+
+<img src="images/10.jpeg?raw=true"/>
+---
+
 
 [Unpacking the urban virtual water of the Global South: Lessons from 181 cities](https://www.sciencedirect.com/science/article/abs/pii/S0921800923001222)
 
