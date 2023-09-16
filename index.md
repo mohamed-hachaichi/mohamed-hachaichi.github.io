@@ -17,7 +17,7 @@ Overall, Dr. Mohamed Hachaichi is a dedicated and passionate researcher whose wo
 ----------
 #### Contact Information 
  
-[Google Scholar](https://scholar.google.com/citations?user=xaceBrYAAAAJ&hl=en) - [ResearchGate](https://www.researchgate.net/profile/Mohamed-Hachaichi) - [LinkedIn](https://www.linkedin.com/in/mohamed-hachaichi-07017212a/) - [Twitter](https://twitter.com/datum_geek)
+[Google Scholar](https://scholar.google.com/citations?user=xaceBrYAAAAJ&hl=en) - [ResearchGate](https://www.researchgate.net/profile/Mohamed-Hachaichi) - [LinkedIn](https://www.linkedin.com/in/mohamed-hachaichi-07017212a/) - [Twitter](https://twitter.com/med_hachaichi)
 
 ---------------
 
