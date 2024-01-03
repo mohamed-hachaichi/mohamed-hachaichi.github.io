@@ -9,7 +9,7 @@
 _"Territories are at the forefront of efforts to curtail the trajectory of their environmental impacts and enhance their economic and ecological resilience. To expedite the process of curving the ecological footprint, France has launched the Ecological Transition Plan (ETP). However, environmental programs in France are orchestrated at the national and regional levels, which tends to diminish the heterogeneity of territorial dynamics. This underscores a disparity in scale that might potentially hinder the translation of the ETP's objectives (Top-Down) into feasible local initiatives (Bottom-Up), and vice versa. To bridge this gap, we suggest employing the Ecological Footprint as a monitoring framework, in conjunction with a spatially-nested approach. This combination aims to guarantee the precise conversion of objectives into impactful local actions. Results reveal that only 27% of French territories are encountering an ecological deficit, while the remaining 73% are classified as ecological reserves. The primary sectors contributing to this ecological overshoot are “road transport” (28.8%), followed by “industry” (21.4%), and “agriculture” (19.5%). We posit that this spatially-nested analysis can unravel territorial heterogeneities and facilitate the design of more nuanced and appropriately tailored ecological actions across different scales."_
 
 
-<img src="images/11.jpeg?raw=true"/>
+<img src="images/11.jpg?raw=true"/>
 ---
 
 [No City Left Behind: Building Climate Policy Bridges between the North and South](https://www.mdpi.com/2674-0494/2/3/24)
