@@ -2,7 +2,7 @@
 
 ### Research papers 
 
-[Assessing the ecological performance of French territories using a spatially-nested approach]([https://www.mdpi.com/2674-0494/2/3/24](https://www.sciencedirect.com/science/article/pii/S1470160X23010890)
+[Assessing the ecological performance of French territories using a spatially-nested approach](https://www.sciencedirect.com/science/article/pii/S1470160X23010890)
 
 ### Abstract 
 
