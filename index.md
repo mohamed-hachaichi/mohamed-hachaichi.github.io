@@ -9,8 +9,6 @@ _I use __Data__ to improve life on Earth._
 
 I am a Postdoctoral Researcher affilaited to [Pacte Lab](https://www.pacte-grenoble.fr/fr/mohamed-nour-el-islem-hachaichi) at the Institute of Urbanism and Geography Alpes (IUGA) at Grenoble Alpes University, France. I hold also an honorary research fellow at [Network for Education and Research on Peace and Sustainability (NERPS) at Hiroshima University, Japan](https://nerps.org/research-fellows-and-associates/). I hold a Ph.D. in *circular urban metabolism and climate change* from the Polytechnic school of Architecture and Urbanism (Algiers-Algeria). During my Ph.D research, I was affiliated to the laboratory of _"Cities, Urbanism and Sustainable Development"_.
 
-Currently interested in designing a **rapid whole system change** on a global scale using new relevant **sustainability** metrics in a **data-driven approach**. I Aim to clearly identify *social tipping points* using **behavioral mechanisms** and **pattern recognition** to find *structure* in **chaotic social/economic/urban environments**.
-
 Overall, Dr. Mohamed Hachaichi is a dedicated and passionate researcher whose work is making a significant contribution to the field of __sustainability__. Through his innovative research and commitment to interdisciplinary collaboration, Dr. Mohamed Hachaichi is helping to pave the way towards a more **sustainable future**.
 
 
