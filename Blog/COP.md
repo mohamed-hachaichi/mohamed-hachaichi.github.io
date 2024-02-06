@@ -26,7 +26,7 @@ To quantify the virtual carbon emissions resulting from COP 28 hosted in Dubai, 
 
 Equation (02):
 
-$Carbon Footprint = \frac{{D_{\text{km}} \cdot EF_{\text{kg CO2eq}}}}{{\text{km} \cdot 2}}$
+$Carbon Footprint = Distance * emissions factor * traveled distance$
 
 Where: 
 D: is the distance between the origin country’s airport and the destination airport in km. 
