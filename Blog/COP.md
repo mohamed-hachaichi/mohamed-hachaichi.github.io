@@ -19,13 +19,14 @@ To calculate the virtual carbon emissions associated with the transportation of 
 
 Equation (01):
 
-$$D(x,y) = 2arcsin[sin^2((x_{\text{lat}}-y_{\text{lat}})/2) + cos(x_{\text{lat}}) \cdot cos(y_{\text{lat}}) \cdot sin^2((x_{\text{lon}}-y_{\text{lon}})/2)]] $$
+$D(x,y) = 2arcsin[sin^2((x_{\text{lat}}-y_{\text{lat}})/2) + cos(x_{\text{lat}}) \cdot cos(y_{\text{lat}}) \cdot sin^2((x_{\text{lon}}-y_{\text{lon}})/2)]] $
 
 
 To quantify the virtual carbon emissions resulting from COP 28 hosted in Dubai, the transport distance (expressed in kilometers) between the departure airports of attendees traveling to COP 28 from diverse countries and the designated destination airport in the city of Dubai (Dubai International Airport) was calculated as outlined in Equation 02:
 
 Equation (02):
-$$Carbon Footprint = \frac{{D_{\text{km}} \cdot EF_{\text{kg CO2eq}}}}{{\text{km} \cdot 2}}$$
+
+$Carbon Footprint = \frac{{D_{\text{km}} \cdot EF_{\text{kg CO2eq}}}}{{\text{km} \cdot 2}}$
 
 Where: 
 D: is the distance between the origin country’s airport and the destination airport in km. 
