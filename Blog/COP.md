@@ -1,11 +1,11 @@
 ## Green Horizons: Navigating COP 28's Carbon Footprint – Emphasis on Africa and the Global South
 
-## Hachaichi Mohamed
+### Hachaichi Mohamed
 
-## Abstract: 
+## Abstract
 With each additional COP conference, there is a growing chorus of criticism due to the high carbon footprint associated with the event, mostly due to the intensive amount of international air travel. There has also been a growing chorus of voices raising the related question as to whether COP conferences can become virtual to play a greater leadership role in the reduction of carbon emissions and serve as a good role model for what it is advocating to the rest of the world. COVID19 demonstrated that it was possible for billions of people to adapt and rapidly change behavior from physical face-to-face meetings to virtual online ones. Even after COVID19 was over, many meetings that have migrated permanently to online. In this study, we consider the feasibility of migrating COP from a currently high to a low carbon emission event, mainly by minimizing the amount of air travel and cutting indirect carbon emissions. The study is framed as an optimization problem, a tradeoff between the carbon emissions of tens of thousands of long distance flights to one global COP destination and the carbon emissions of many shorter trips to an increased number of regional destinations. 
 
-## Keywords: 
+## Keywords
 Carbon emissions: geography of carbon; COP28 
 
 
@@ -18,12 +18,14 @@ COP 28 marked a significant milestone as the inaugural Conference of the Parties
 To calculate the virtual carbon emissions associated with the transportation of individuals to the recent COP28 in Dubai, three essential types of databases are required. Firstly, a roster of attendees, comprising individuals who participated in the COP, was sourced from the United Nations' Climate Change (UNFCCC) (UNFCCC, 2023). The second database entails information on the distances between international airports, specifically the airports in the attendees' countries of origin and the final destination, Dubai International Airport, in this analysis. The distance between two airports is determined utilizing the Haversine distance method, as outlined in Equation 01. Lastly, emissions factors for airplanes were obtained from the French database of emissions factors provided by the French Ministry of Ecological Transition.
 
 Equation (01):
-D(x,y) =2arcsin[sin2(xlat-ylat)2 + cos(xlat) cos(ylat)sin2((xlon-ylon)2) ] 
+
+$$D(x,y) = 2arcsin[sin^2((x_{\text{lat}}-y_{\text{lat}})/2) + cos(x_{\text{lat}}) \cdot cos(y_{\text{lat}}) \cdot sin^2((x_{\text{lon}}-y_{\text{lon}})/2)]] $$
+
 
 To quantify the virtual carbon emissions resulting from COP 28 hosted in Dubai, the transport distance (expressed in kilometers) between the departure airports of attendees traveling to COP 28 from diverse countries and the designated destination airport in the city of Dubai (Dubai International Airport) was calculated as outlined in Equation 02:
 
 Equation (02):
-Carbon Footprint = Dkm*EFkg CO2eq / km* 2 
+$$Carbon Footprint = \frac{{D_{\text{km}} \cdot EF_{\text{kg CO2eq}}}}{{\text{km} \cdot 2}}$$
 
 Where: 
 D: is the distance between the origin country’s airport and the destination airport in km. 
@@ -60,16 +62,27 @@ The database is provided via the following link: https://zenodo.org/records/1060
 ## References 
 
 Ayanlade, A., Smucker, T. A., Nyasimi, M., Sterly, H., Weldemariam, L. F., & Simpson, N. P. (2023). Complex climate change risk and emerging directions for vulnerability research in Africa. Climate Risk Management, 40, 100497. https://doi.org/10.1016/j.crm.2023.100497
+
 Belmin, C., Hoffmann, R., Pichler, P.-P., & Weisz, H. (2022). Fertility transition powered by women’s access to electricity and modern cooking fuels. Nature Sustainability, 5(3), Article 3. https://doi.org/10.1038/s41893-021-00830-3
+
 Cobbinah, P. B., & Finn, B. M. (2023). Planning and Climate Change in African Cities: Informal Urbanization and ‘Just’ Urban Transformations. Journal of Planning Literature, 38(3), 361–379. https://doi.org/10.1177/08854122221128762
+
 COP28. (2023). COP28 to focus on delivering real results for Global South. https://www.prnewswire.com/in/news-releases/cop28-to-focus-on-delivering-real-results-for-global-south-301869895.html
+
 Dinar, A., Hassan, R., Mendelsohn, R., Benhin, J., & al,  et. (2012). Climate Change and Agriculture in Africa: Impact Assessment and Adaptation Strategies. Routledge.
+
 Hachaichi, M., & Baouni, T. (2021). Virtual carbon emissions in the big cities of middle-income countries. Urban Climate, 40, 100986. https://doi.org/10.1016/j.uclim.2021.100986
+
 Hachaichi, M., & Egieya, J. (2023). Water-Food-Energy Nexus in Global Cities: Addressing Complex Urban Interdependencies. Water Resources Management, 37(4), 1811–1825. https://doi.org/10.1007/s11269-023-03455-7
+
 Mayer, B. (Ed.). (2018). The UNFCCC Regime, from Rio to Paris. In The International Law on Climate Change (pp. 33–50). Cambridge University Press. https://doi.org/10.1017/9781108304368.003
+
 McSweeney, R. (2023, December 1). Analysis: Which countries have sent the most delegates to COP28? Carbon Brief. https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop28/
+
 Taing, L., Chang, C. C., Pan, S., & Armitage, N. P. (2019). Towards a water secure future: Reflections on Cape Town’s Day Zero crisis. Urban Water Journal, 16(7), 530–536. https://doi.org/10.1080/1573062X.2019.1669190
+
 UNFCCC. (2023). List of participants | UNFCCC. https://unfccc.int/documents/636676
+
 Werksman, J. (1996). The Conference of Parties to Environmental Treaties                            *. In Greening International Institutions. Routledge.
 
 ## Bio:

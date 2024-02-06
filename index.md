@@ -2,7 +2,7 @@
 
 _I use __Data__ to improve life on Earth._
 
-[CV](https://docs.google.com/document/d/13JBk-icJjf_6psBvQdHXmSclHUYyBfXf/edit?usp=sharing&ouid=101260051385549215271&rtpof=true&sd=true) - [Research](./Research/Research.md) 
+[CV](https://docs.google.com/document/d/13JBk-icJjf_6psBvQdHXmSclHUYyBfXf/edit?usp=sharing&ouid=101260051385549215271&rtpof=true&sd=true) - [Research](./Research/Research.md) - 
 [Climate change](./Blog/COP.md)
 
 
